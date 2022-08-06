@@ -1,0 +1,61 @@
+@media screen and (min-width: 386px) {
+  body {
+    background-image: url(/img/bg-pattern-desktop.svg);
+    background-size: 60%;
+  }
+  .TextField-border-radius fieldset {
+    width: 425px;
+  }
+}
+@media screen and (max-width: 385px) {
+  body {
+    background-color: #fff1f1;
+    background-size: cover;
+  }
+  .TextField-border-radius fieldset {
+    width: 275px;
+  }
+}
+
+.MuiTypography-root {
+  font-family: "Josefin Sans", sans-serif;
+}
+.titles {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-weight: 600;
+}
+.pink {
+  color: hsl(0, 36%, 70%);
+  font-weight: 200;
+}
+.text {
+  font-size: 50px;
+}
+
+.para {
+  color: hsl(0, 36%, 70%);
+  font-weight: 400;
+}
+
+.TextField-border-radius fieldset {
+  border-radius: 30px;
+}
+
+.buttons {
+  background-color: hsl(0, 100%, 98%);
+}
+
+.butons {
+  background-color: hsl(0, 74%, 74%);
+}
+
+.hero {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-height: 100%;
+  min-width: 100%;
+  transform: translate(-50%, -50%);
+}
