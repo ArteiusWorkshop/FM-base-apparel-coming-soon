@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-ping-coming-soon-page)
-- Live Site URL: [Live site URL here](https://fm-ping-coming-soon-page-a3sua4ubs-arteiusworkshop.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-base-apparel-coming-soon)
+- Live Site URL: [Live site URL here](https://fm-base-apparel-coming-soon-i4uka54nk-arteiusworkshop.vercel.app/)
 
 ## My process
 
